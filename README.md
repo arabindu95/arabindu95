@@ -63,19 +63,16 @@
   <a href="mailto:arabinduchakraborty.921@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" /> 
   </a>
-  <span>📧 Email: <b>arabinduchakraborty.921@gmail.com</b></span>
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/arabinduchakraborty/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" /> 
   </a>
-  <span>🔗 LinkedIn: <b>linkedin.com/in/arabinduchakraborty</b></span>
   <br/><br/>
 
   <a href="https://visionary-florentine-e4ed9a.netlify.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=netlify" height="40" /> 
   </a>
-  <span>🌐 Portfolio: <b>visionary-florentine-e4ed9a.netlify.app</b></span>
 </div>
 
 
