@@ -27,11 +27,11 @@
 ---
 
 <h1 align="center">👋 Hey, I'm Arabindu Chakraborty</h1>
-<h3 align="center">🔥 MERN Stack Developer | Secure & Production-Ready Web Apps</h3>
+<h3 align="center"> MERN Stack Developer | Secure & Production-Ready Web Apps</h3>
 
 ---
 
-### 👨‍💻 About Me  
+###  About Me  
 - 🚀 I build **full production-level MERN apps**  
 - 🔐 Expert in **JWT Authentication + HttpOnly Cookies**  
 - 🛒 Built full **E-Commerce**, Cart, Wishlist, Checkout, Admin Panel  
@@ -51,7 +51,7 @@
 
 ---
 
-### 🔥 My GitHub Stats  
+###  My GitHub Stats  
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arabindu95&theme=tokyonight&border_radius=5" height="220" alt="streak graph"/>
 </div>
@@ -62,7 +62,13 @@
 
 ---
 
-### 📫 Contact  
+###  
+<h2 align="left" style="font-size: 32px; font-weight: 800;">
+  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
+    🔗 Connect With Me
+  </span>
+</h2>
+
 <div align="left">
   <a href="mailto:arabinduchakraborty.921@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" /> 
