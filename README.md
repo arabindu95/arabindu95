@@ -63,11 +63,10 @@
 ---
 
 ###  
-<h2 align="left" style="font-size: 32px; font-weight: 800;">
-  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
-    🔗 Connect With Me
-  </span>
+<h2 align="left">
+  <font color="#ff8a00"><b>🔗 Connect With Me</b></font>
 </h2>
+
 
 <div align="left">
   <a href="mailto:arabinduchakraborty.921@gmail.com" target="_blank">
