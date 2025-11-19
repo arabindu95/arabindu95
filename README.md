@@ -38,14 +38,14 @@
 
 <p align="left">
 
-- 🚀 I build <b>full production-level MERN apps</b>  <br/>
-- 🔐 Expert in <b>JWT Authentication + HttpOnly Cookies</b> <br/>
-- 🛒 Built full <b>E-Commerce</b> (Cart, Wishlist, Checkout, Admin Panel) <br/>
-- ⚡ Love writing clean, scalable backend architecture <br/>
-- 🌱 Currently improving <b>System Design & API Security</b> <br/>
-- 🗃 MongoDB Schema Design & Optimization <br/>
-- 🎨 Modern Frontend with React + Tailwind <br/>
-- 📫 Reach me: <b>arabinduchakraborty.921@gmail.com</b>
+🚀 I am a passionate MERN Stack Developer focused on building clean and functional web applications.  
+🔐 Currently learning and implementing **JWT Authentication + HttpOnly Cookies** for secure login systems.  
+🛒 Built multiple real-world projects including **E-Commerce modules** (Cart, Wishlist, Checkout UI).  
+⚡ Love learning backend architecture and writing clean, organized code.  
+🌱 Actively improving **API security, MongoDB schema design, and scalable project structure**.  
+🎨 Enjoy building modern UI using **React + Tailwind CSS**.  
+📫 Reach me: arabinduchakraborty.921@gmail.com
+
 
 </p>
 
