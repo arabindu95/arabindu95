@@ -1,71 +1,142 @@
-👋 Hi, I'm Arabindu Chakraborty!
-I am a passionate and results-driven MERN Stack Developer (MongoDB, Express.js, React.js, Node.js) focused on delivering secure, production-grade, and performant web applications.
+# 👋 Hi, I'm **Arabindu Chakraborty!**
 
-As a fresher, I specialize in implementing advanced system architecture, complex business logic, and prioritizing security—skills critical for modern, real-world development.
+**Passionate MERN Stack Developer** focused on building **secure, scalable, production-grade applications** using MongoDB, Express.js, React.js, and Node.js.
 
-💡 Core Development Strengths
-Focus Area	Key Achievements & Tools	HR Keywords
-🔐 Advanced Security	Implemented secure JWT flow using HttpOnly Cookies (mitigating XSS), Bcrypt hashing, and Role-Based Access Control (RBAC) for protected routes.	Authentication, Security, JWT, RBAC
-🛒 E-commerce & Logic	Developed end-to-end solutions including Cart/Wishlist management, detailed Checkout Flows, and dedicated Admin/Seller Dashboards.	Full-Stack, E-commerce, Business Logic
-🌍 API Architecture	Designed and built highly scalable, high-performance RESTful APIs leveraging Express middleware and robust error handling.	REST API, Scalability, Middleware
-🎨 Frontend & UI	Expert in building modern, responsive user interfaces using React.js, Context API, and Tailwind CSS for optimal user experience.	React.js, Tailwind CSS, Responsive Design
+As a fresher, I focus heavily on **modern application architecture**, **security**, and **real production-level problem solving** — things that actually matter to companies.
 
-Export to Sheets
+---
 
-🛠️ Tech Stack & Toolset
-Frontend: React.js, Vite, JavaScript (ES6+), Context API, Tailwind CSS, HTML5/CSS3
+# 💡 **Core Development Strengths**
 
-Backend: Node.js, Express.js, RESTful Architecture, Middleware, Error Handling
+| **Focus Area**           | **Key Achievements & Tools**                              | **HR Keywords**                        |
+| ------------------------ | --------------------------------------------------------- | -------------------------------------- |
+| 🔐 **Advanced Security** | Secure JWT Authentication, HttpOnly Cookies, Bcrypt, RBAC | Authentication, Security, JWT, RBAC    |
+| 🛒 **E‑commerce Logic**  | Cart/Wishlist, Checkout Flow, Admin & Seller Dashboard    | Full‑Stack, E‑commerce, Business Logic |
+| 🌍 **API Architecture**  | Scalable REST APIs, Express Middleware, Error Handling    | REST API, Scalability, Middleware      |
+| 🎨 **Frontend/UI**       | Responsive UI with React.js, Context API, Tailwind CSS    | React.js, Tailwind, Responsive Design  |
 
-Database: MongoDB, Mongoose (Schema Design & Indexing)
+---
 
-Security: JWT (Access + Refresh Token), HttpOnly Cookies, Bcrypt
+# 🛠️ **Tech Stack & Tools**
 
-Tools & Deployment: Git & GitHub, Postman, VS Code, Netlify, Render, Vercel
+### **Frontend**
 
-📌 Featured Projects (Code speaks louder than words)
-Recruiters often look for complexity and real-world applicability—these projects highlight that.
+* React.js, Vite
+* JavaScript (ES6+)
+* Context API
+* Tailwind CSS
+* HTML5 / CSS3
 
-⭐ 1. Full E-Commerce Application (MERN Stack)
-A complete, scalable e-commerce solution showcasing full-stack capabilities.
+### **Backend**
 
-Features:
+* Node.js, Express.js
+* REST Architecture
+* Custom Middleware / Error Handling
 
-User/Seller Separation: Separate dashboards for customers and product managers.
+### **Database**
 
-Order Lifecycle Management: From Add to Cart, secure Checkout, to Order Tracking.
+* MongoDB
+* Mongoose (Schema Design, Indexing)
 
-Product Management: CRUD operations for product listings, inventory management.
+### **Security**
 
-🔗 Live Demo: [INSERT ACTUAL LIVE LINK HERE]
+* JWT (Access + Refresh)
+* HttpOnly Secure Cookies
+* Bcrypt Password Hashing
 
-🔗 GitHub Repo (Pin this): [INSERT ACTUAL REPO LINK HERE]
+### **Tools & Deployment**
 
-⭐ 2. Production-Grade User Authentication System
-A dedicated security project focusing on modern best practices.
+* Git & GitHub
+* Postman
+* VS Code
+* Netlify, Render, Vercel
 
-Features:
+---
 
-Implemented Access Token + Refresh Token strategy.
+# 🧰 **Languages & Tools (Icons)**
 
-Tokens stored in HttpOnly, Secure Cookies for protection against XSS attacks.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>
+</p>
 
-Protected Routes and Authorization checks based on user roles.
+---
 
-🔗 GitHub Repo (Pin this): [INSERT ACTUAL REPO LINK HERE]
+# 📌 **Featured Projects (Your Strongest Work)**
 
-📈 GitHub Stats
-[Insert your GitHub Stats here (e.g., using a tool like GitHub Readme Stats)]
+> Recruiters love **real-world complexity**, not simple todo apps.
 
-Export to Sheets
+---
 
-📫 Connect With Me
-Platform	Details
-Portfolio	https://visionary-florentine-e4ed9a.netlify.app/
-LinkedIn	https://www.linkedin.com/in/arabinduchakraborty/
-Email	arabinduchakraborty.921@gmail.com
-Phone	8250517582
+## ⭐ **1. Full MERN E‑Commerce Application**
 
-Export to Sheets
+A complete real-world e‑commerce system showcasing serious full-stack skills.
 
-🎯 Final Words: I love tackling real-world problems and translating business requirements into scalable, clean code. Let's build something impactful together!
+### **Key Features**
+
+* 👥 User + Seller Accounts
+* 🛒 Cart, Wishlist
+* 💳 Full Checkout Flow
+* 📦 Order Management
+* 🗂️ Admin/Seller Dashboard
+* 🔐 JWT + Cookies secure authentication
+
+🔗 **Live Demo:** *(Add your link here)*
+🔗 **GitHub Repo (Pin this):** *(Add repo link here)*
+
+---
+
+## ⭐ **2. Production‑Grade Authentication System**
+
+A professional-level authentication workflow following industry standards.
+
+### **Features**
+
+* Access + Refresh Token Strategy
+* HttpOnly Cookies → XSS protection
+* Role-Based Authorization
+* Fully protected routes
+
+🔗 **GitHub Repo:** *(Add repo link here)*
+
+---
+
+# 📈 **GitHub Stats**
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=arabindu95&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arabindu95&theme=radical" height="165"/>
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabindu95&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+# 🔗 **Connect With Me**
+
+<p align="left">
+<a href="https://www.linkedin.com/in/arabinduchakraborty/"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
+<a href="mailto:arabinduchakraborty.921@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
+<a href="https://visionary-florentine-e4ed9a.netlify.app/"><img src="https://skillicons.dev/icons?i=web" height="48"/></a>
+</p>
+
+### **📧 Email:** [arabinduchakraborty.921@gmail.com](mailto:arabinduchakraborty.921@gmail.com)
+
+### **📱 Phone:** 8250517582
+
+---
+
+# 🎯 **Final Words**
+
+I love building **real-world, production-level systems** and turning business requirements into clean, scalable architecture.
+
+🚀 **Let's build something impactful together!**
