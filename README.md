@@ -56,6 +56,36 @@ I specialize in:
 
 ---
 
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/arabinduchakraborty/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="linkedin"/></a>
+<a href="mailto:arabinduchakraborty.921@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="gmail"/></a>
+<a href="https://github.com/arabindu95" target="blank"><img src="https://skillicons.dev/icons?i=github" height="48" alt="github"/></a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html" height="48"/>
+<img src="https://skillicons.dev/icons?i=css" height="48"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="48"/>
+<img src="https://skillicons.dev/icons?i=react" height="48"/>
+<img src="https://skillicons.dev/icons?i=redux" height="48"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
+<img src="https://skillicons.dev/icons?i=express" height="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="48"/>
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
+<img src="https://skillicons.dev/icons?i=postman" height="48"/>
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### ⭐ **1. Full MERN Register/Login (JWT + Cookies)**
