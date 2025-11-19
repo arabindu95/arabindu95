@@ -35,15 +35,21 @@
 <h2 align="left">
   About Me:
 </h2>
-- 🚀 I build **full production-level MERN apps**  
-- 🔐 Expert in **JWT Authentication + HttpOnly Cookies**  
-- 🛒 Built full **E-Commerce**, Cart, Wishlist, Checkout, Admin Panel  
-- ⚡ Love writing clean, scalable backend architecture  
-- 🌱 Currently improving **System Design & API Security**
-- 🗃 MongoDB Schema Design & Optimization
-- 🎨 Modern Frontend with React + Tailwind
-- 
-- 📫 How to reach me arabinduchakraborty.921@gmail.com
+
+<p align="left">
+
+- 🚀 I build <b>full production-level MERN apps</b>  <br/>
+- 🔐 Expert in <b>JWT Authentication + HttpOnly Cookies</b> <br/>
+- 🛒 Built full <b>E-Commerce</b> (Cart, Wishlist, Checkout, Admin Panel) <br/>
+- ⚡ Love writing clean, scalable backend architecture <br/>
+- 🌱 Currently improving <b>System Design & API Security</b> <br/>
+- 🗃 MongoDB Schema Design & Optimization <br/>
+- 🎨 Modern Frontend with React + Tailwind <br/>
+- 📫 Reach me: <b>arabinduchakraborty.921@gmail.com</b>
+
+</p>
+
+
 
 ---
 
