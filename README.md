@@ -36,7 +36,11 @@
 - 🔐 Expert in **JWT Authentication + HttpOnly Cookies**  
 - 🛒 Built full **E-Commerce**, Cart, Wishlist, Checkout, Admin Panel  
 - ⚡ Love writing clean, scalable backend architecture  
-- 🌱 Currently improving **System Design & API Security**  
+- 🌱 Currently improving **System Design & API Security**
+- 🗃 MongoDB Schema Design & Optimization
+- 🎨 Modern Frontend with React + Tailwind
+- 
+- 📫 How to reach me arabinduchakraborty.921@gmail.com
 
 ---
 
