@@ -1,16 +1,138 @@
-## Hi there 👋
+# 👋 Hi, I'm **Arabindu Chakraborty**
 
-<!--
-**arabindu95/arabindu95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **MERN Stack Developer | Production‑Ready Web Applications | Secure Auth, E‑commerce & Scalable APIs**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Passionate **MERN Stack Developer** skilled in building **secure, production-grade and real-world applications** using MongoDB, Express.js, React.js, and Node.js.
+
+I specialize in:
+
+* 🔐 **Advanced Authentication** (JWT + HttpOnly Cookies)
+* 🛒 **E-commerce Systems** (Cart, Orders, Seller Panel)
+* ⚡ **High-Performance REST APIs**
+* 🗃 **MongoDB Schema Design & Optimization**
+* 🎨 **Modern Frontend with React + Tailwind**
+
+🌐 **Portfolio:** [https://visionary-florentine-e4ed9a.netlify.app/](https://visionary-florentine-e4ed9a.netlify.app/)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/arabinduchakraborty/](https://www.linkedin.com/in/arabinduchakraborty/)
+💼 **GitHub:** [https://github.com/arabindu95](https://github.com/arabindu95)
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+
+* React.js, Vite, JavaScript (ES6+)
+* Redux / Context API
+* Tailwind CSS, HTML5, CSS3
+
+### **Backend**
+
+* Node.js, Express.js
+* RESTful API Architecture
+* Middleware Architecture, Error Handling
+
+### **Database**
+
+* MongoDB, Mongoose
+
+### **Authentication & Security**
+
+* JWT (Access + Refresh)
+* HttpOnly Cookies
+* Bcrypt Password Hashing
+* Protected Routes / Role-Based Access
+
+### **Tools & Others**
+
+* Git & GitHub
+* Postman
+* VS Code
+* Deployment: Netlify, Render, Vercel
+
+---
+
+## 📌 Featured Projects
+
+### ⭐ **1. Full MERN Register/Login (JWT + Cookies)**
+
+A production-ready authentication system with secure JWT flow.
+
+* ✔ Register + Login
+* ✔ Access Token + Refresh Token
+* ✔ HttpOnly Secure Cookies
+* ✔ Protected User Routes
+
+🔗 Repo: *(Pin this repository)*
+
+---
+
+### ⭐ **2. Full E-Commerce App (MERN Stack)**
+
+Complete E-commerce solution including:
+
+* ✔ Product Management
+* ✔ Add to Cart
+* ✔ Checkout Flow
+* ✔ Order Management
+* ✔ Admin/Seller Dashboard
+
+🔗 Repo: *(Pin this repository)*
+
+---
+
+### ⭐ **3. Grocery E-Commerce**
+
+* Product listing
+* Add to cart
+* User login system
+* Responsive UI
+
+🔗 Repo: *(Pin this repository)*
+
+---
+
+### ⭐ **4. Book Selling Web App**
+
+* CRUD operations
+* Authentication
+* Cart & checkout logic
+
+🔗 Repo: *(Pin this repository)*
+
+---
+
+## 📌 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arabindu95\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arabindu95\&layout=compact\&theme=radical)
+
+---
+
+## 🏆 Skills Summary
+
+* 🔥 Expert in MERN Stack
+* 🔐 Strong in Authentication (JWT + Cookies)
+* 🧩 Real-world UI & API integration
+* 🌍 REST API development
+* 📦 Clean code & reusable architecture
+
+---
+
+## 📫 Contact
+
+* 📩 **Email:** [arabinduchakraborty.921@gmail.com](mailto:arabinduchakraborty.921@gmail.com)
+* 📱 **Phone:** 8250517582
+
+---
+
+### 🎯 Final Words
+
+I love building **real-world, production-level apps** that solve real problems. Always learning. Always improving.
+
+🚀 *Let's build something amazing!*
