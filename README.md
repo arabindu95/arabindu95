@@ -1,142 +1,60 @@
-# 👋 Hi, I'm **Arabindu Chakraborty!**
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dN1JQyG.gif" width="100%" alt="banner" />
+</p>
 
-**Passionate MERN Stack Developer** focused on building **secure, scalable, production-grade applications** using MongoDB, Express.js, React.js, and Node.js.
-
-As a fresher, I focus heavily on **modern application architecture**, **security**, and **real production-level problem solving** — things that actually matter to companies.
-
----
-
-# 💡 **Core Development Strengths**
-
-| **Focus Area**           | **Key Achievements & Tools**                              | **HR Keywords**                        |
-| ------------------------ | --------------------------------------------------------- | -------------------------------------- |
-| 🔐 **Advanced Security** | Secure JWT Authentication, HttpOnly Cookies, Bcrypt, RBAC | Authentication, Security, JWT, RBAC    |
-| 🛒 **E‑commerce Logic**  | Cart/Wishlist, Checkout Flow, Admin & Seller Dashboard    | Full‑Stack, E‑commerce, Business Logic |
-| 🌍 **API Architecture**  | Scalable REST APIs, Express Middleware, Error Handling    | REST API, Scalability, Middleware      |
-| 🎨 **Frontend/UI**       | Responsive UI with React.js, Context API, Tailwind CSS    | React.js, Tailwind, Responsive Design  |
+<h1 align="center">👋 Hi, I'm <span style="color:#00bfff">Arabindu Chakraborty</span></h1>
+<h3 align="center">💻 MERN Stack Developer | Building Real-World Web Apps</h3>
 
 ---
 
-# 🛠️ **Tech Stack & Tools**
-
-### **Frontend**
-
-* React.js, Vite
-* JavaScript (ES6+)
-* Context API
-* Tailwind CSS
-* HTML5 / CSS3
-
-### **Backend**
-
-* Node.js, Express.js
-* REST Architecture
-* Custom Middleware / Error Handling
-
-### **Database**
-
-* MongoDB
-* Mongoose (Schema Design, Indexing)
-
-### **Security**
-
-* JWT (Access + Refresh)
-* HttpOnly Secure Cookies
-* Bcrypt Password Hashing
-
-### **Tools & Deployment**
-
-* Git & GitHub
-* Postman
-* VS Code
-* Netlify, Render, Vercel
+## 🚀 About Me  
+🔹 I build **production-grade MERN applications**  
+🔹 Expert in **JWT + Cookie Authentication**  
+🔹 Clean, modular, scalable code is my priority  
+🔹 Love working with **React, Node.js, Express, MongoDB**
 
 ---
 
-# 🧰 **Languages & Tools (Icons)**
+## ⚡ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
 
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arabindu95&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabindu95&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+## 🛒 Featured Projects  
+🔹 MERN E-Commerce Full App  
+🔹 JWT Secure Authentication System  
+🔹 Full Register/Login + Role Based Access  
+
+👉 **More on my GitHub!**
+
+---
+
+## 🤝 Connect With Me  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-<img src="https://skillicons.dev/icons?i=express" height="45"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=postman" height="45"/>
+  <a href="https://www.linkedin.com/in/arabinduchakraborty/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/arabindu95">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </p>
 
----
-
-# 📌 **Featured Projects (Your Strongest Work)**
-
-> Recruiters love **real-world complexity**, not simple todo apps.
+📧 **Email:** arabinduchakraborty.921@gmail.com
 
 ---
 
-## ⭐ **1. Full MERN E‑Commerce Application**
-
-A complete real-world e‑commerce system showcasing serious full-stack skills.
-
-### **Key Features**
-
-* 👥 User + Seller Accounts
-* 🛒 Cart, Wishlist
-* 💳 Full Checkout Flow
-* 📦 Order Management
-* 🗂️ Admin/Seller Dashboard
-* 🔐 JWT + Cookies secure authentication
-
-🔗 **Live Demo:** *(Add your link here)*
-🔗 **GitHub Repo (Pin this):** *(Add repo link here)*
-
----
-
-## ⭐ **2. Production‑Grade Authentication System**
-
-A professional-level authentication workflow following industry standards.
-
-### **Features**
-
-* Access + Refresh Token Strategy
-* HttpOnly Cookies → XSS protection
-* Role-Based Authorization
-* Fully protected routes
-
-🔗 **GitHub Repo:** *(Add repo link here)*
-
----
-
-# 📈 **GitHub Stats**
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=arabindu95&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arabindu95&theme=radical" height="165"/>
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://i.imgur.com/w1bXGcz.gif" width="300" alt="animation"/>
 </p>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabindu95&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-# 🔗 **Connect With Me**
-
-<p align="left">
-<a href="https://www.linkedin.com/in/arabinduchakraborty/"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
-<a href="mailto:arabinduchakraborty.921@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
-<a href="https://visionary-florentine-e4ed9a.netlify.app/"><img src="https://skillicons.dev/icons?i=web" height="48"/></a>
-</p>
-
-### **📧 Email:** [arabinduchakraborty.921@gmail.com](mailto:arabinduchakraborty.921@gmail.com)
-
-### **📱 Phone:** 8250517582
-
----
-
-# 🎯 **Final Words**
-
-I love building **real-world, production-level systems** and turning business requirements into clean, scalable architecture.
-
-🚀 **Let's build something impactful together!**
