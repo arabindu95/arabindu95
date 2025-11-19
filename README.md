@@ -83,7 +83,7 @@
 </h2>
 
 
-<div align="center" style="display:flex; justify-content:center; gap: 20px;>
+<div align="center" style="display:flex; justify-content:center; gap: 20px";>
   <a href="mailto:arabinduchakraborty.921@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" /> 
   </a>
