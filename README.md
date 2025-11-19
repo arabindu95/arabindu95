@@ -44,14 +44,20 @@
 
 ---
 
-### 🛠️ Languages & Tools (MERN Only – Clean Setup)
+### 
+<h2 align="left">
+  🛠️ Languages & Tools (MERN Only – Clean Setup):
+</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,vite,git,github,vscode" height="50" />
 </div>
 
 ---
 
-###  My GitHub Stats  
+###    
+<h2 align="left">
+  My GitHub Stats:
+</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arabindu95&theme=tokyonight&border_radius=5" height="220" alt="streak graph"/>
 </div>
@@ -64,7 +70,7 @@
 
 ###  
 <h2 align="left">
-  <font color="#ff8a00"><b>🔗 Connect With Me</b></font>
+  Connect With Me:
 </h2>
 
 
