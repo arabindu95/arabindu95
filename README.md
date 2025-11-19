@@ -27,7 +27,7 @@
 ---
 
 <h1 align="center">👋 Hey, I'm Arabindu Chakraborty</h1>
-<h3 align="center"> MERN Stack Developer | Secure & Production-Ready Web Apps</h3>
+<h3 align="center"> MERN Stack Developer || Building Secure & Modern Web Applications</h3>
 
 ---
 
