@@ -31,7 +31,10 @@
 
 ---
 
-###  About Me  
+###    
+<h2 align="left">
+  About Me:
+</h2>
 - 🚀 I build **full production-level MERN apps**  
 - 🔐 Expert in **JWT Authentication + HttpOnly Cookies**  
 - 🛒 Built full **E-Commerce**, Cart, Wishlist, Checkout, Admin Panel  
@@ -74,7 +77,7 @@
 </h2>
 
 
-<div align="left">
+<div align="center">
   <a href="mailto:arabinduchakraborty.921@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" /> 
   </a>
